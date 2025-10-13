@@ -14,7 +14,7 @@ upper_color = np.array([140, 255, 255])
 # Store previous point to draw lines
 prev_center = None
 
-print("🖌️ Air Painter started! Use a blue object to draw. Press 'c' to clear. Press 'q' to quit.")
+print(" Air Painter started! Use a blue object to draw. Press 'c' to clear. Press 'q' to quit.")
 
 while True:
     ret, frame = cap.read()
@@ -77,7 +77,7 @@ while True:
     elif key == ord('c'):
         # Clear canvas when 'c' is pressed
         canvas = np.zeros_like(frame)
-        print("🧼 Canvas cleared!")
+        print(" Canvas cleared!")
 
 cap.release()
 cv2.destroyAllWindows()
