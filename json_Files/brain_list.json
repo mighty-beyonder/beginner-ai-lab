@@ -1,0 +1,146 @@
+{
+    "hello": [
+        "Hi there!",
+        "Hello!",
+        "Hey, how are you?",
+        "Hi! Nice to see you.",
+        "Hello friend."
+    ],
+    "hi": [
+        "Hello!",
+        "Hi!",
+        "Hey there!",
+        "Hi, how's it going?",
+        "Hello friend."
+    ],
+    "hey": [
+        "Hey!",
+        "Hi there!",
+        "Hello!",
+        "Hey, how are you?",
+        "Hi!"
+    ],
+    "good morning": [
+        "Good morning!",
+        "Morning! How are you?",
+        "Good morning friend!",
+        "Have a nice morning!"
+    ],
+    "good evening": [
+        "Good evening!",
+        "Evening! How was your day?",
+        "Good evening friend.",
+        "Hope your evening is nice."
+    ],
+    "how are you": [
+        "I'm good, thanks.",
+        "Doing well, what about you?",
+        "All fine here.",
+        "I am great today.",
+        "Feeling good."
+    ],
+    "what is your name": [
+        "I'm ChatBot.",
+        "I am your friendly bot.",
+        "You can call me ChatBot.",
+        "My name is ChatBot.",
+        "I am called ChatBot."
+    ],
+    "who are you": [
+        "I am an AI chatbot.",
+        "I am a virtual friend.",
+        "I'm here to chat with you.",
+        "I am a bot made in Python."
+    ],
+    "what can you do": [
+        "I can chat with you.",
+        "I can learn new replies.",
+        "I can answer questions.",
+        "I can have fun conversations."
+    ],
+    "bye": [
+        "Goodbye!",
+        "See you later.",
+        "Bye friend.",
+        "Take care!",
+        "Talk to you soon."
+    ],
+    "goodbye": [
+        "Bye!",
+        "Goodbye friend.",
+        "See you later!",
+        "Take care!",
+        "Farewell."
+    ],
+    "thank you": [
+        "You're welcome.",
+        "No problem.",
+        "Anytime.",
+        "Glad to help.",
+        "Sure!"
+    ],
+    "thanks": [
+        "You're welcome.",
+        "No worries.",
+        "Anytime.",
+        "Glad I could help.",
+        "Sure!"
+    ],
+    "tell me a joke": [
+        "Why did the robot cross the road? To recharge on the other side.",
+        "Why was the computer cold? It left its Windows open.",
+        "Why do programmers prefer dark mode? Because light attracts bugs."
+    ],
+    "i love you": [
+        "I love talking with you too.",
+        "That's sweet.",
+        "I enjoy our conversations.",
+        "I appreciate you."
+    ],
+    "can you help me": [
+        "Of course, I can help.",
+        "Sure! What do you need?",
+        "Yes, tell me what you want.",
+        "I will do my best to help."
+    ],
+    "are you real": [
+        "I am real inside your computer.",
+        "I exist as code.",
+        "I am a virtual AI.",
+        "I exist to chat with you."
+    ],
+    "what is ai": [
+        "AI is Artificial Intelligence.",
+        "AI allows machines to think and learn.",
+        "AI is a type of computer intelligence.",
+        "Artificial Intelligence is what I am based on."
+    ],
+    "do you sleep": [
+        "No, I am always awake.",
+        "I don't sleep.",
+        "I am always ready to chat.",
+        "Sleep is not for me."
+    ],
+    "can you play games": [
+        "I can play word games.",
+        "I can answer questions.",
+        "I can chat and play simple games.",
+        "We can play a text-based game."
+    ],
+    "who made you": [
+        "I was created using Python.",
+        "A human programmer made me.",
+        "I was developed as a chatbot.",
+        "I was coded by a programmer."
+    ],
+    "how old are you": [
+        "I don't age.",
+        "I was created recently.",
+        "I exist outside of time.",
+        "I don't have an age like humans."
+    ],
+    "fine": [
+        "good to hear you",
+        "sounds good"
+    ]
+}
